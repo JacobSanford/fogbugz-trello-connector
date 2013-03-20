@@ -10,7 +10,8 @@ TRELLO_LABEL_TO_PARSE
 FOGBUGZ_URL
 FOGBUGZ_USER
 FOGBUGZ_PASSWORD
-FOGBUGZ_DEFAULT_PROJECT```
+FOGBUGZ_DEFAULT_PROJECT
+```
 
 ## Use Outline
 - Automatically create a new case in Fogbugz by adding TRELLO_LABEL_TO_PARSE to Trello card.
@@ -18,5 +19,5 @@ FOGBUGZ_DEFAULT_PROJECT```
 
 ## Requirements
 ### python
-FogBugz API (https://pypi.python.org/pypi/fogbugz/)
-trello (https://pypi.python.org/pypi/trello)
+- FogBugz API (https://pypi.python.org/pypi/fogbugz/)
+- trello (https://pypi.python.org/pypi/trello)
