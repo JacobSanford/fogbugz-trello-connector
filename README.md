@@ -3,7 +3,8 @@ Rudimentary cron script to synchronize comments between Trello boards and FogBug
 
 ## Setup
 A number of exports are needed in the environment:
-```TRELLO_API_KEY
+```
+TRELLO_API_KEY
 TRELLO_USER_TOKEN (private boards only)
 TRELLO_BOARD_TO_PARSE
 TRELLO_LABEL_TO_PARSE
