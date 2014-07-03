@@ -1,4 +1,6 @@
-# Fogbugz - Trello connector.
+# Fogbugz - Trello connector
+### Synchronize comments between Trello boards and FogBugz cases
+
 Rudimentary cron script to synchronize comments between Trello boards and FogBugz cases. Leverages Trello card ID to link data via case tag in Fogbugz.
 
 ## Setup
@@ -22,3 +24,9 @@ FOGBUGZ_DEFAULT_PROJECT
 ### python
 - FogBugz API (https://pypi.python.org/pypi/fogbugz/)
 - trello (https://pypi.python.org/pypi/trello)
+
+##License
+- Fogbugz - Trello connector is licensed under the MIT License:
+  - http://opensource.org/licenses/mit-license.html
+- Attribution is not required, but much appreciated:
+  - `Fogbugz - Trello connector by Jacob Sanford`
